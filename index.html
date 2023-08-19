@@ -51,9 +51,17 @@
                             <img class="img-screenshot img-medium" src="./data/img/start/character_creation.png" alt="character creation">
                         </div>
                     </div>
-                </div>
-                <div id="dynamic-content" class="flex-content">
-                    <!-- Insert Here via JS -->
+                    <div id="dynamic-content">
+                        <!-- Insert Here via JS -->
+                    </div>
+                    <div class="flex-scroll-container">
+                        <div>
+                            <input onclick="scrollPageTop()" id="pageTopBtn" type="button" class="scroll-button" value="▲">
+                        </div>
+                        <div>
+                            <input onclick="scrollPageBottom()" id="pageBottomBtn" type="button" class="scroll-button" value="▼">
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

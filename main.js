@@ -225,7 +225,7 @@ function generateCards(data, script) {
 }
 
 // Process HTML Cards
-function assembleCards(data) {
+async function assembleCards(data) {
     
     // Build Categorized HTML Page Object 
     const pageDataObject = {
@@ -256,12 +256,7 @@ function assembleCards(data) {
         }
     }
 
-    // Return Page Objecct
-    if (pageDataObject.earlyGamePage != '' && pageDataObject.midGamePage != '' && pageDataObject.endGamePage != '') {
-        return pageDataObject;
-    } else {
-        return;
-    }
+    return pageDataObject;
 }
 
 // Fetch Card Data
@@ -282,18 +277,16 @@ window.onload = async () => {
     // Reset Color Picker on Page Load
     resetColor();
 
-    // Fetch Guide Data
-    let cardData = await getData();
-
-    // Process Data into Pages
-    let pages = assembleCards(cardData);
-
-    // Assign Content Div
+    // Content Div
     let dynamicContentDiv = document.getElementById("dynamic-content");
 
+    // Fetch Guide Data & Process Into Pages
+    let cardData = await getData();
+    let pages = await assembleCards(cardData);
+
     // Render Page Data
-    let pageContent = `${pages.earlyGamePage}\n${pages.midGamePage}\n${pages.endGamePage}`
-    dynamicContentDiv.innerHTML = pageContent;
+    let dynamicContent = `${pages.earlyGamePage}\n${pages.midGamePage}\n${pages.endGamePage}`
+    dynamicContentDiv.innerHTML = dynamicContent;
 
     // Prepare Page Nav
     pageTopBtn = document.getElementById("pageTopBtn");
