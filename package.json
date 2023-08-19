@@ -1,0 +1,36 @@
+{
+    "name": "zero2hero",
+    "version": "1.0.0",
+    "description": "JSON Encoded Guide",
+    "main": "index.html",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/minersettlementguide/zero2hero.git"
+    },
+    "keywords": [],
+    "author": "UserError",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/minersettlementguide/zero2hero/issues"
+    },
+    "homepage": "https://github.com/minersettlementguide/zero2hero#readme",
+    "scripts": {
+        "build-message": "echo \"Linting & Updating Files...\" && exit 0",
+        "update": "gulp increment-version",
+        "format": "npx eslint --fix . --ext .json,.js"
+    },
+    "pre-commit": [
+        "build-message",
+        "format",
+        "update"
+    ],
+    "devDependencies": {
+        "eslint": "^8.15.0",
+        "eslint-config-standard": "^17.0.0",
+        "eslint-plugin-json": "^3.1.0",
+        "gulp": "^4.0.2",
+        "gulp-cli": "^2.3.0",
+        "pre-commit": "^1.2.2"
+    },
+    "dependencies": {}
+}
