@@ -1,0 +1,841 @@
+[
+
+    {
+        "section": "Early Game",
+        "cards": [
+            {
+                "title": "Character Creation",
+                "screenshots": [
+                    "./data/img/start/character_creation.png"
+                ],
+                "steps": [
+                    "When starting the game, you can select your outfit.",
+                    "Text input fields accept limited forms of html markup. This allows you to color code your name and do other special things. As you can see in this guide, my name will be Red and Grey.",
+                    "You can use the provided color picker to select your preferred name color.",
+                    "The name field does have a character limit and can be changed later in your house. Because this game is multiplayer, your name must abide by the Terms of Service. Failing to do so can result in 24 hour chat mutes or outright chat bans.",
+                    "With that out of the way, Select your name."
+                ]
+            },
+            {
+                "title": "Game Start",
+                "screenshots": [
+                    "./data/img/start/character_start.png"
+                ],
+                "steps": [
+                    "You will spawn just outside of West Virimel.",
+                    "For the first part of the game, you will be learning several mechanics often found in idle games. This includes automated resource generation, incremental upgrade systems, shops, etc.",
+                    "Once you successfully rebuild the village, you will be able to start combat and leveling.",
+                    "Throughout the campaign you will see a hand pointer that can guide you in the direction of your next quest.",
+                    "To proceed, head right into the Village."
+                ]
+            },
+            {
+                "title": "Build Your House",
+                "screenshots": [
+                    "./data/img/start/house_rebuild.png"
+                ],
+                "steps": [
+                    "Your first quest is pretty easy.",
+                    "Click the Build Button."
+                ]
+            },
+            {
+                "title": "Completing Quests",
+                "screenshots": [
+                    "./data/img/start/house_quest_rward.png"
+                ],
+                "steps": [
+                    "Rebuilding the House will unlock some additional features.",
+                    "Open your Quest Menu at the bottom of the screen.",
+                    "Claim the Quest Rewards.",
+                    "Quests are usually triggered one after another, followed by dialogue.",
+                    "Proceed with the next Quest."
+                ]
+            },
+            {
+                "title": "House Cleaning",
+                "screenshots": [
+                    "./data/img/start/house_interior.png",
+                    "./data/img/start/house_rats.png"
+                ],
+                "steps": [
+                    "Enter your House.",
+                    "Go up the stairs.",
+                    "Here you will get a glimpse of how combat works.",
+                    "Defeat the Rats.",
+                    "Once the Rats have been defeated, this is where you can access your wardrobe. If you want to change your characters clothes, name, name color, etc. This is where you would do so.",
+                    "Claim Quest Reward."
+                ]
+            },
+            {
+                "title": "Tree Chopping",
+                "screenshots": [
+                    "./data/img/start/village_tree.png"
+                ],
+                "steps": [
+                    "Leave your house.",
+                    "Go left past the abandoned mine to the tree",
+                    "Notice that you can manually tap to chop or use the auto tap button.",
+                    "While the game does offer both ways of in-game collection, please note that Auto-Clickers & Macros are not allowed. Using them can result in a permanent game ban.",
+                    "Next, walk over any fallen wood to pick it up.",
+                    "Claim Quest Reward."
+                ]
+            },
+            {
+                "title": "Build Pet Trainer's House",
+                "screenshots": [
+                    "./data/img/start/village_trainer_menu.png"
+                ],
+                "steps": [
+                    "Go left as directed.",
+                    "Rebuild the Trainer House for 15 Wood.",
+                    "Claim Quest Reward + Complete The Dialogue.",
+                    "Open the Trainer House Menu.",
+                    "Notice that buying a Snail Pet costs 100 Silver.",
+                    "Exit the Menu, and go the Market next door.",
+                    "Complete The Dialogue + Claim Quest Reward."
+                ]
+            },
+            {
+                "title": "Village Silver Market",
+                "screenshots": [
+                    "./data/img/start/village_market.png",
+                    "./data/img/start/village_market_menu.png"
+                ],
+                "steps": [
+                    "Open the Market Menu.",
+                    "Sell all Wood.",
+                    "Claim Quest Reward."
+                ]
+            },
+            {
+                "title": "Training Your First Pet",
+                "screenshots": [
+                    "./data/img/start/village_snail_production.png",
+                    "./data/img/start/village_trainer_house.png"
+                ],
+                "steps": [
+                    "Return to the Trainer House.",
+                    "Buy a Snail.",
+                    "This starts Automatic Wood Production. (+30 per minute)",
+                    "Upgrading the Snail will make all existing Snails produce more Wood. Buying another Snail will effectively double our production. (+75 per minute)",
+                    "Exit the Menu.",
+                    "Notice that you also unlock a Pet Production Menu. This will tell you the current clicks and allow you to temporarily boost your pets performance.",
+                    "Claim Quest Reward."
+                ]
+            },
+            {
+                "title": "Rebuilding The Forge",
+                "screenshots": [
+                    "./data/img/start/village_forge.png",
+                    "./data/img/start/forge_menu.png"
+                ],
+                "steps": [
+                    "If you haven't yet, head further left and talk to the Blacksmith.",
+                    "Go to the forge and Click the Rebuild Option (25 Wood).",
+                    "Complete The Dialogue + Claim Quest Reward + Complete The Dialogue.",
+                    "You now have a Pickaxe Scheme. Open the Forge Menu. Craft the Pickaxe (25 Wood + 100 Silver)",
+                    "Claim Quest Reward + Complete The Dialogue.",
+                    "As a tip, later when you unlock the scheme inventory tab, you will be able to access the forge menu remotely. You wont need to keep running back to the forge to craft items. To do this, tap on a completed scheme and it will open the crafting menu."
+                ]
+            },
+            {
+                "title": "Rebuilding The Mine",
+                "screenshots": [
+                    "./data/img/start/village_cave_entrance.png",
+                    "./data/img/start/mining_stone.png",
+                    "./data/img/start/totem_location.png"
+                ],
+                "steps": [
+                    "Head back to the tree and inspect the Abandoned Mine. Rebuild it for 30 wood",
+                    "Claim Quest Reward.",
+                    "Enter the Mine. Auto Mine Stone until you receive 10 stone. You should also find an 'Heart of the Mountain' quest item.",
+                    "Leave the Mine.",
+                    "Complete The Dialogue + Claim Quest Reward.",
+                    "Head to your Right, Just past your House. You'll notice you need 25 Stone to rebuild the totem. Rather than mine manually, go back to the Trainer House.",
+                    "Because you unlocked the Stone Mine, you can now buy a Crab Pet to mine Stone for 1000 Silver Coins.",
+                    "This will produce 12 Stone a minute. Next after reaching 25 stone, return to the totem and rebuild it.",
+                    "For now, we aren't going to do anything with the totem, as it can be expensive to upgrade. We'll come back to the totem later.",
+                    "You will now unlock the ability to complete daily rewards, click claim to receive free gems.",
+                    "Complete The Dialogue + Claim Quest Reward."
+                ]
+            },
+            {
+                "title": "Progression Choice",
+                "screenshots": [
+                    "./data/img/start/gods_hammer_scheme.png"
+                ],
+                "steps": [
+                    "In the upcoming sections, we come to a critical progression choice.",
+                    "Most new players often ask how to get a better pickaxe. The early game pickaxe scheme progression is very prohibitive. That being said, there is a free way to unlock some of the best pickaxes in the game.",
+                    "This method will require perfectly claiming only specific quest rewards and around 24 hours of time.",
+                    "Skipping the method is also okay as you can receive the 2nd best pickaxe for free later after level 50.",
+                    "The method we will be doing is known as the 'Demonic Pickaxe Trick'. It is better though to do the trick for the God's Hammer Pickaxe instead.",
+                    "The reason being is that its a later crafting material for the best pickaxe in the game, The High Uldreds Pickaxe. Doing the trick now has the potential to save thousands of gems and or weeks of time, so it is worth while."
+                ]
+            },
+            {
+                "title": "The Pickaxe Scheme Trick",
+                "screenshots": [],
+                "steps": [
+                    "From this point forward, do not claim any quest rewards that contain an scheme unless explicitly told to do so.",
+                    "If you accidently claim another large completion count scheme, it could add days of waiting, hindering our progression.",
+                    "To start our progression, we will need to claim a secret code.",
+                    "Go to <a href='https://funventure.eu/2022/09/10/secret-codes-page/' target='_blank'>FunVenture Secret Codes Page</a>.",
+                    "Note: If the website displays an error, wait a moment and try refreshing.",
+                    "In-game, copy your User ID. from the hero page. This is done by clicking the little paper icon in the corner. In the website form, input your User ID.",
+                    "Now, there happen to be several codes, but for now we only want to claim 2 specific codes.",
+                    "Input the code: 'discord_contest' into the site and click the submit button.",
+                    "Input the code: 'discord_masters' into the site and click the submit button.",
+                    "This will send rewards straight to your mailbox. These rewards include the first scheme for the God's Hammer Pickaxe, Several Hundred Shards, etc. Do not spend any of the shards or rewards unless explicitly told to do so."
+                ]
+            },
+            {
+                "title": "Rebuilding the Inn",
+                "screenshots": [],
+                "steps": [
+                    "Continuing on with the game, Head to your right until you reach the Inn Construction Site.",
+                    "Rebuild it for 800 Wood and 100 Stone.",
+                    "Complete The Dialogue.",
+                    "In the Inn Menu, you can send out resources for Shards. Upgrading this building increases the amount of Shards you can get per trip.",
+                    "The Inn also unlocks multiple different features. This includes the ability to purchase a God's Hammer Pickaxe Scheme if you cant obtain the free one. Additionally, you also unlock the Microtransaction Store.",
+                    "This guide was built to show how to play an Free to Play Character, on Steam, which at the time of writing does not have an Ad System. Not having Ads does make the F2P progression more difficult as it means we have to manage our Gems carefully and don't get easy revives in Combat. Given that, if you are going to play on Steam, I would recommend purchasing VIP for an more conveinent experience. If you would like an more forgiving experience without paying, make sure you are playing on mobile instead.",
+                    "While these recommendations are to spend money on a Subscription, I get nothing for you doing so, and you can complete the game without paying a dime. There are plenty of endgame F2P Community Members who play daily as well."
+                ]
+            },
+            {
+                "title": "Expanding The Mine",
+                "screenshots": [
+                    "./data/img/start/coal_cave_construction.png",
+                    "./data/img/start/coal_production.png"
+                ],
+                "steps": [
+                    "Next, we leave the Inn area and Head Left towards the Trainer House.",
+                    "Along the way you'll be stopped to talk about pets. Pets can slightly increase your inventory storage. Note, the description that says they can remotely tried is a artifact and that feature no longer works. Pets will probably get an overhaul at some point, but at the time of writing, they are a pretty old feature.",
+                    "Next go back to the Stone Cave. Here we will go past the stone and to the end of the cave. Theres an option to build an Coal Cave Entrance",
+                    "Build the Coal Cave Entrance for 800 Wood and 150 Stone.",
+                    "Enter the Coal Cave. Here you can auto-mine Coal, mine a few and then return to the surface.",
+                    "Head to the trainer house, notice you can now buy a Bat Pet for 2500 Silver Coins. By this time you should have a free green gift bouncing on the left side of your screen. Tap it and you'll get Free Gems and Silver Coins.",
+                    "You can also get free gems from Achievements on the shield icon at the right of the screen.",
+                    "It shouldn't take long to claim 2 free gift rewards which should give you about 3000 silver coins.",
+                    "Purchase the Bat pet.",
+                    "DO NOT BLINDLY CLAIM QUEST REWARDS IF DOING THE PICKAXE TRICK!"
+                ]
+            },
+            {
+                "title": "Rebuilding The Airport",
+                "screenshots": [
+                    "./data/img/start/village_airport.png",
+                    "./data/img/start/airport_menu.png"
+                ],
+                "steps": [
+                    "Next head back towards our spawnpoint, just past the forge.",
+                    "Here you will want to rebuild the Airport. Rebuilding the Airport requires 300 Stone and 50 Coal",
+                    "Once built, here you can unlock schemes for free, for gems, or daily with shards. The daily shards unlocks a known scheme fragment. That being said, do not claim any schemes from the first tab in the Airport.",
+                    "If you've followed instructions correctly for the pickaxe trick, it should say 'you don't have any incomplete schemes' if you didn't claim the bad ones in the quest rewards.",
+                    "Exit the Airport Menu.",
+                    "Complete The Dialogue.",
+                    "Claim any non-scheme quest rewards if your comfortable doing so.",
+                    "At this point you should have unlocked many features, such as Global Chat, Daily Quests, Etc."
+                ]
+            },
+            {
+                "title": "Unlocking The Iron Mine",
+                "screenshots": [
+                    "./data/img/start/iron_mine.png",
+                    "./data/img/start/achievements.png"
+                ],
+                "steps": [
+                    "Return to the Mine, Head to the Coal Cave.",
+                    "Rebuild the Iron Mine for 150 Coal, 800 Stone, and 2000 Wood.",
+                    "Enter the Iron Cave, then turn around and leave back to the surface.",
+                    "Complete The Dialogue.",
+                    "Go to the Trainer House. Purchase the Rat Pet for 3500 Silver Coins. Upgrade the Rat Pet. Remember to keep upgrading your pets as much as possible.",
+                    "This will increase resource production and unlock achievement rewards for more gems. Initially, selling wood in the Market is also a good way to get some silver coins.",
+                    "We don't want to keep selling wood though as we will need it later. Our next goal is to farm shards as we will need 15 more scheme parts."
+                ]
+            },
+            {
+                "title": "Farming Shards",
+                "screenshots": [],
+                "steps": [
+                    "Upgrade the Inn to the best you can and start sending out voygages for shards.",
+                    "Additionally the green gift button should occoaisionally start rewarding shards.",
+                    "You'll want to farm as many shards as you can, as the Airport Chest is limited to 10 Scheme Claims a day and the price goes up each claim.",
+                    "Eventually you'll unlock a quest to rebuild the Goblin Silo once your deep enough in the mine.",
+                    "Claim your Quest Rewards for rebuilding the silo, this includes the Processed Wood & Iron Bar Scheme.",
+                    "Claiming those 2 schemes won't mess up your progress towards the pickaxe scheme we are farming."
+                ]
+            },
+            {
+                "title": "Progressing The Mine",
+                "screenshots": [],
+                "steps": [
+                    "The next Mine Upgrade is the Gold Cave, which costs 150 Iron, 800 Coal, & 1200 Stone After building the gold mine, return to the surface.",
+                    "The Old man will give you a quest to rebuild the portal system and unlock the hidden door in your house. For now we skip this as portals are expensive to build and use.",
+                    "Continue saving minerals until you can open the platinum mine. Once again return to the trainer house and buy the Bunny Pet.",
+                    "Eventually you'll want to build the Tanzanit Cave, which costs 300 Platinum, 1500 Gold, 3000 Iron. At this point if you want to progress faster, you'll want to afk and auto mine the iron ore.",
+                    "After unlocking the tanzanit cave, you'll notice the next area doesn't require rebuilt. This is the goblin cave and the Door inside of it requires a key. Head back up to the surface.",
+                    "Complete The Dialogue.",
+                    "Before moving on, Head to the Storage Chest in front of your house.  Rebuilding the Storage Chest costs 25k wood and 10k Stone. Deposit your enhance stone materials and anything else taking up Inventory Space.",
+                    "Head to the trainer house and buy a worm pet. At this point while afking iron you should have accumulated quit a bit of silver if you claimed gifts. Upgrade your pets, as much as you can, especially the Tanzanit mine as later its a good source of silver via market.",
+                    "Do the goblins quests until your able to craft his gate key in the forge. The key costs 5 green enhance stone, 10 tanzanit, 100 platinum, and 500 Gold. Once crafted return to the goblins gate in the cave.",
+                    "This next area is the Emerald Mine. Here you will meet the with the Dragon King.",
+                    "Complete The Dialogue. Then return to the surface. Complete The Dialogue.",
+                    "Claim any Non-Scheme Quest Rewards you can.",
+                    "Go to the Trainer House, Buy the Chicken Pet. AFK for a bit or all night. Unlock Ruby Mine for 350 Tanzanit 1800 platinum 4000 gold. Return to the surface",
+                    "Go to the Trainer House, Purchase the Mole Pet. Return to the mine, and Auto Mine Platinum until you can afford the Jade Mine. Unlock Jade Mine for 350 Ruby 2000 Tanzanit 6000 platinum.",
+                    "Return to the surface. Buy the Duck Pet."
+                ]
+            },
+            {
+                "title": "Portal System",
+                "screenshots": [],
+                "steps": [
+                    "At this point you can begin to rebuild the Portal System.",
+                    "Central Virimel: 250 Wood, 250 Stone, 100 Coal",
+                    "East Virimel: 250 Wood, 250 Stone, 100 Coal",
+                    "West Nature Valley: 250 Wood, 250 Stone, 100 Coal",
+                    "To craft portals, you can use the enhance stone material you have been mining. Later, once we unlock the God's Hammer Pickaxe, we will be able to craft Portal Scrolls much more efficiently."
+                ]
+            },
+            {
+                "title": "Rebuilding The Bridge",
+                "screenshots": [
+                    "./data/img/bridge/bridge_broken.png",
+                    "./data/img/bridge/dungeon_entrance.png"
+                ],
+                "steps": [
+                    "Head all the way to the right, past the Inn, until you reach the Broken Bridge. Open the Forge Menu via your Inventory Scheme Tab. Craft 1 Iron Bar and 5 Processed Wood",
+                    "Rebuild the Bridge",
+                    "Complete The Dialogue.",
+                    "The Knight will say you are not ready. Complete the new goblin quests for the gold and platinum bar schemes. Make sure to claim both quest rewards for these ingot schemes as two are required to unlock it in the forge.",
+                    "Cross the Bridge until you see the Dungeon Cave Storage Chest, then Turn Back. Head to the Forge. Complete The Dialogue. Claim the Dagger Quest Reward Scheme.",
+                    "Open the Crafting Menu."
+                ]
+            },
+            {
+                "title": "Combat Preparations",
+                "screenshots": [
+                    "./data/img/bridge/dagger_recipe.png",
+                    "./data/img/bridge/crafted_dagger.png"
+                ],
+                "steps": [
+                    "Once in the Forge Menu, you will see making a dagger costs 10 processed wood and 2 iron bars. If you click on the icon for the dagger, you can see its stat range. Ideally we want a dagger thats as close to 20 dmg as possible.",
+                    "Once you have the materials, craft the dagger.",
+                    "Don't claim any further scheme quest rewards unless you've gotten your God's Hammer Pickaxe Scheme Set Completed.",
+                    "After claiming the 2 dagger quest rewards from the blacksmith and the knight, go back to the bridge.",
+                    "Enter the Dungeon Cave."
+                ]
+            },
+            {
+                "title": "The Dungeon",
+                "screenshots": [],
+                "steps": [
+                    "If you havent yet, Go to the Bridge, cross over and enter the dungeon entrance.",
+                    "The first floor is rats. The Next floor is slime.",
+                    "Try to kill as much as you can, and if you die, watch an ad to revive. If your on Steam, I recommend just dying instead of reviving as its not worth the gem cost. Worst Case Scenario, you spawn back in town, and lose nothing. Hopefully you killed some rats and we can move on with the quest progression.",
+                    "At this point your Gods Hammer Pickaxe Scheme set has to be done,  and unless you want to target farm more schemes,  go ahead and claim all unclaimed quest rewards.",
+                    "Return to Central Virimel. Complete The Dialogue.",
+                    "You'll receive a potion recipe. Unfortunately, you may get unlucky and unable to drop the required materials for the potion craft.",
+                    "Just keep running back and trying to kill as many rats and slime as you can until you can get to goblins on floor 3.",
+                    "If you get lucky, they will actually drop a shield for you. If not take the leather drop and craft a wooden shield. This will reduce the damage you take and allow you to survive longer. Depending on how well your shield rolls, will determine how well you survive.",
+                    "Keep throwing yourself at the rats, slimes & goblins until you can get better gear. Another way of accomplishing this outside of combat, is through crafting and gardening.",
+                    "Gardening allows you to buy a weapon in the shop, and crafting is an expensive process that requires schemes, but allows you to craft deterministically.",
+                    "Eventually you want to obtain an Leather Covered Shield for improved defence. With a 19 damage Dagger and a 9 Defence Shield, I was able to kill the Goblin Leader without Revive."
+                ]
+            },
+            {
+                "title": "Fishing",
+                "screenshots": [],
+                "steps": [
+                    "Head to West Virimel, past the airport, and look for a Forest Entrance. This takes you to the Fishing Area.",
+                    "Once inside, go all the way to the right. Open the Fishing Market. Craft a Basic Fishing Rod.",
+                    "Having a fishing rod lets you collect bait from the 3 spawn locations every 20 minutes. Go ahead and catch some fish.",
+                    "You can convert fish in the Fish Market. Later you can convert Fishing Reward tokens in the Fishing Shop on the other end of the Fishing Area.",
+                    "Return to Central Virmiel.",
+                    "Complete The Dialogue + Claim Quest Reward."
+                ]
+            },
+            {
+                "title": "Garden",
+                "screenshots": [],
+                "steps": [
+                    "Next, Go to your House. Enter Magical Door. Head Left until you reach a statue. Craft the Gardening Tool.",
+                    "Claim Quest Reward.",
+                    "Head Right, back to the Entrance. The clouds blocking the other side should have lifted. Build the Potato Plot.",
+                    "Farm the Plot.",
+                    "Claim Quest Reward.",
+                    "Head back to the Statue, Rebuild it.",
+                    "Claim Quest Reward + Complete The Dialogue.",
+                    "Head back towards the entrance. Rebuild the Food Wagon.",
+                    "Complete The Dialogue.",
+                    "Open the Food Wagon Menu. Craft the Meal Recipe.",
+                    "Claim Quest Reward.",
+                    "Head to the Entrance. Remove Curse from Statue",
+                    "Claim Quest Reward + Complete The Dialogue.",
+                    "Go to the Meal Delivery Location. Turn in the crafted Meal.",
+                    "Claim Quest Reward + Complete The Dialogue.",
+                    "Head left to where the original statue was, which is now a shop. Open the Magic Garden Shop. Craft the Magic Gate Key.",
+                    "Claim Quest Reward.",
+                    "Head back to the Potato Plot, continue past to the Gate. Unlock the Magic Gate.",
+                    "Claim Quest Reward.",
+                    "Now you can technically progress the garden as you wish, by farming Harvest XP. Many players will recommend that you do the garden to get gear and runes, but honestly I don't believe its worth it. The time investment required makes this a noob trap, and by the time you get something worth while, you could already be in mid to end game. That being said you will eventully need to come back and start doing the garden as some of its resources are used in events."
+                ]
+            },
+            {
+                "title": "Early AFK Grinds",
+                "screenshots": [],
+                "steps": [
+                    "AFK Slimes to Level 10 and to collect slime drops for later.",
+                    "AFK Garden Potatoes for a few hours.",
+                    "AFK Fishing Bait for a few hours."
+                ]
+            },
+            {
+                "title": "Finish The Early Game",
+                "screenshots": [],
+                "steps": [
+                    "If you haven't, Craft your God's Hammer Pickaxe.",
+                    "Unlock the Insatiable Ore Mine for 800 Jade, 2500 Ruby, 10,000 Emerald. Return to the Surface.",
+                    "Buy the Pig Pet in the Trainer House. Afk Insatiable Ore if needed to speed up the next unlock.",
+                    "Unlock the Insatiable Stone Mine for 500 Insatiable Ore, 1500 Jade, and 3000 Ruby. Return to the surface.",
+                    "Complete The Dialogue.",
+                    "Go to the Trainer House, Buy the Buffalo Pet. You are now finished with unlocking the mine.",
+                    "From here you will want to keep progressing upgrades for resources via pets. Purchase the Snail Enhance Stone Schemes from the Inn. Continue claiming daily schemes from the Airport or spend gems to acquire all 5."
+                ]
+            },
+            {
+                "title": "Finish Secret Codes",
+                "screenshots": [],
+                "steps": [
+                    "As stated earlier, we only wanted to collect certain secret codes. Now that we have crafted our God's Hammer Pickaxe, we need to go back to the <a href='https://funventure.eu/2022/09/10/secret-codes-page/' target='_blank'>FunVenture Secret Codes Page</a>. If you skipped that progression choice, make sure to claim all codes now.",
+                    "Note: If the website displays an error, wait a moment and try refreshing.",
+                    "In-game, copy your User ID. from the hero page. This is done by clicking the little paper icon in the corner. In the website form, input your User ID.",
+                    "Input the code: 'discord_contest' into the site and click the submit button.",
+                    "Input the code: 'discord_masters' into the site and click the submit button.",
+                    "Input the code: 'ahoy_adventure' into the site and click the submit button.",
+                    "Input the code: 'sunshines_secret_stash' into the site and click the submit button.",
+                    "This will send rewards straight to your mailbox."
+                ]
+            },
+            {
+                "title": "Unlocking The City",
+                "screenshots": [],
+                "steps": [
+                    "Go towards the Fishing Area Entrance and just past, speak to the gaurd at the gate. He tells you he's lost his stuff.",
+                    "As a warning, this quest line is a large, chained fetch quest.",
+                    "Go the Inn and speak to Marf. Next you will need to defeat the troll in the dungeon. This requires some decent gear first.",
+                    "I was able to kill the Troll Boss using an Undead Sword w/ 138 Dmg and 1.44s attack speed.",
+                    "Claim Quest Reward. Return to town.",
+                    "Speak to the old man twice.",
+                    "You will need to provide the old man with 20 rat claws and 5 leather scraps to complete the next quest.",
+                    "Complete The Dialogue.",
+                    "Craft or Collect 3 Small Health Potions and 1 Magic Dust to complete the next quest.",
+                    "Complete The Dialogue.",
+                    "Make sure you have some extra health potions. Go back to the Dungeon and defeat a Fire Wisp. Go back to town, talk to Trainer Jack.",
+                    "Next speak with Goblin Mil. Goblin Mil will need 5 slime. Speak with Mil again + Claim Quest Reward.",
+                    "Next you'll Interrogate Navi, Complete The Dialogue.",
+                    "Craft 5 iron bars. Speak with Navi again.",
+                    "Claim Quest Reward.",
+                    "Talk to Eddie the Blacksmith.",
+                    "Claim Quest Reward.",
+                    "Head back to the City Gate and speak to Rollo. Comlete The Quest Rewards. You now have unlocked the City Region.",
+                    "Head into the city and speak with the merchant. The merchant will give you a quest to defeat the dungeon king at the bottom of the dungeon."
+                ]
+            },
+            {
+                "title": "Player Trade Market",
+                "screenshots": [],
+                "steps": [
+                    "Assuming you farmed enough slime, you should be able to sell a stack of slime in the market.",
+                    "You'll want to familiarize yourself with the menu.",
+                    "First we need to learn how to price check. Sure you could just go to into global and ask for some guy named Sunshine, He'll tell you the price. But he's not always on. We want a price right now!",
+                    "To do this, act as if you were going to buy slime. Select Slime in the filter menu, and make sure you hit the sort by price toggle in the corner. Click the Apply button and you'll be able to see a sorted list of slime for sale.",
+                    "In this case since I am selling 100 (Maximum Stack Size), we need to scroll down and 'Load More'. Eventually you'll see the stack size and what they are listed for. In this case, I am going to undercut by 1 to hopefully sell the slime faster.",
+                    "Listed items on the market is not instant. It can take up to 15 minutes minimum, or as long as 24 hours. Some items can also be automatically cancelled due to market pricing regulations.",
+                    "Additionally, you should never trade items between alt account characters as it is a Bannable Offence.",
+                    "Once my listed offer sells, I will have some Trade Coins in my mailbox."
+                ]
+            },
+            {
+                "title": "Finishing The Dungeon",
+                "screenshots": [],
+                "steps": [
+                    "After unlocking the market, gearing up is going to be much easier. However, we still have more to do while waiting on slime to sell in the market.",
+                    "Next we will want to run more dungeon, and try to level up to 15. After that, we will want to go fish for reward tokens. You'll need 110 fishing reward tokens to unlock a rune 4 and a rune 5 under the daily tab at the Fish Shop.",
+                    "Next using the TC I made from selling slime, I bought a sword of marriage and a elven queen shield.",
+                    "A white snow shield is better, but depending on market pricing, It can cost more than a few TC, which is not worth the extra money at this moment.",
+                    "Next I bought 2 rune 3's and now I have all the runes for my first runeword, which is located behind the dungeon king. Make sure you have some health potions, gear equipped and clear the entire dungeon.",
+                    "You'll defeat the earth elemental and the dungeon king back to back so make sure to heal in between. After beating the dungeon king, go to the rune post and purchase the sword of marriage runeword.",
+                    "Now your build 1 slot should have the rune. If you switch builds you lose the effect until you switch back. Return to town.",
+                    "Complete The Dialogue.",
+                    "Return to the City and talk to the Merchant.",
+                    "He will ask you to rebuild the instatiable stone cave.",
+                    "Once complete, Claim Quest Reward."
+                ]
+            },
+            {
+                "title": "The Necromancer",
+                "screenshots": [],
+                "steps": [
+                    "After unlocking the Instatiable Stone mine, you'll get a quest from Navi.",
+                    "The first quest is to defeat 15 rats to obtain a candle quest item.",
+                    "Turn in the quest with the 25 rat claws.",
+                    "Complete the Dialogue.",
+                    "Navi will want you to obtain a Elven Blade Sword.",
+                    "Once you have obtained this, turn the quest reward in.",
+                    "In my case, the dungeon king dropped one for me.",
+                    "Speak with Navi again.",
+                    "Next she will ask you to kill 15 slimes and turn in 15 slime drops.",
+                    "Complete Quest Reward",
+                    "Return to Town",
+                    "Speak with Navi",
+                    "Return to the Dungeon to Defeat 5 OGR's",
+                    "Claim Quest Rewards",
+                    "Return to Town",
+                    "Speak with Navi",
+                    "Finally navigate down to the Instatiable Stone Cave",
+                    "Rebuild the Necromancers Altar",
+                    "Navigate through all the floors until you can reach the necromancer.",
+                    "You will most likely die if you have not runed your shield yet.",
+                    "In this run, I am going for a different route than whats normally recommended.",
+                    "To do this, you need to be level 20.",
+                    "Initially I bought the Elven Queen shield cause it was cheap and I found a good roll.",
+                    "Currently theres an event for the shield I wanted to use and so it was more expensive than normal.",
+                    "However, someone listed a cheap one, and I snagged it.",
+                    "This means we are going for a T3 Crit Build.",
+                    "The reason why is because this build has nearly an 80% chance to kill everything successfully until we switch builds at level 50.",
+                    "I will purchase an rune 7, and a rune 2 then return to the regular dungeon, and go to the dungeon king runepost.",
+                    "I will rune the white snow shield runeword on the same build slot as my marriage rune.",
+                    "Return to the Insatiable Stone Mine, Enter the Necromancers Altar.",
+                    "Complete the quests that have you kill each floor of the necromancers dungeon.",
+                    "Kill the Necromancer.",
+                    "Return to the Surface.",
+                    "Claim Quest Rewards.",
+                    "Go to the City.",
+                    "Speak with the Merchant.",
+                    "Claim Quest Rewards.",
+                    "The merchant will give you a quest to defeat earth elemental twice.",
+                    "Claim Quest Rewards."
+                ]
+            },
+            {
+                "title": "Uber Angels + LoD",
+                "screenshots": [],
+                "steps": [
+                    "After defeating the Necromancer, Talk to the Knight at the bridge.",
+                    "He will tell you to aquire a key and enter the frozen tower.",
+                    "Claim Quest Rewards.",
+                    "Acquire a Tower Key.",
+                    "Complete Quest Rewards.",
+                    "Go do a tower run. My crit build makes it to around tier 31 before dying / needing revives.",
+                    "Once back in town, claim quest rewards.",
+                    "Next you should get a Uber Angel Scroll Recipe.",
+                    "If you haven't acquired a Uber Angel Scroll yet, farm the materials to craft one.",
+                    "Once Acquired, Open an Uber Angel Scroll in Virimel",
+                    "Kill the angel and then return to town.",
+                    "Claim Quest Rewards.",
+                    "Go to the Emerald mine and speak to the dragon king.",
+                    "claim quest rewards.",
+                    "Kill all 3 types of Uber Angel and collect their drops.",
+                    "Claim Quest Rewards.",
+                    "Teleport to the Emerald Mine.",
+                    "Speak to the Dragon King.",
+                    "Claim Quest Rewards.",
+                    "Collect 10 Daggers.",
+                    "Claim Quest Reward.",
+                    "Return to Dragon King.",
+                    "Disassemble some gear.",
+                    "Claim Quest Rewards.",
+                    "Talk to Dragon King.",
+                    "Craft a Grand Council Scroll.",
+                    "Claim Quest Rewards.",
+                    "Talk to Dragon King Again.",
+                    "Claim Quest Rewards.",
+                    "Return to the Surface.",
+                    "Talk to the old man.",
+                    "Go to the city.",
+                    "Talk with the merchant.",
+                    "Claim Quest Rewards.",
+                    "Open the Grand Council Scroll to Face the Lord of Dissection.",
+                    "I got lucky and dropped a final stand shield.",
+                    "Claim quest rewards."
+                ]
+            },
+            {
+                "title": "Rerolling Uber Angel Scrolls",
+                "screenshots": [],
+                "steps": [
+                    "Due to the high amount of R9's needed moving forward, one way to obtain these as drops is by rerolling Uber Angel Scrolls.",
+                    "This requires you to have a build that can kill the angel from revive as we will be starting the fight from 1hp.",
+                    "When you first enter the portal, go to attack the boss.",
+                    "Immediately click the red X in the corner to surrender and check what the loot is.",
+                    "If the loot is an orange rune, it is worth cancelling and reviving.",
+                    "If the loot is not worth it, confrim the surrender.",
+                    "Repeat until you have the runes you desire, including up to R9."
+                ]
+            },
+            {
+                "title": "Preparing For Mid Game",
+                "screenshots": [],
+                "steps": [
+                    "The next part of the campaign requires level 50.",
+                    "At this point I am afking skeleton champions and slimes for XP and Money.",
+                    "Additionally at this point you should have the ability to participate in some events.",
+                    "Keep in mind, some events will be gated to end game players.",
+                    "Do the best you can and get as much of the free rewards through the event passes."
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Mid Game",
+        "cards": [
+            {
+                "title": "Defeat The Elven Guardian",
+                "screenshots": [],
+                "steps": [
+                    "Returning to Town will trigger the old man to suggest joining a guild.",
+                    "Guilds start Recruiting at Level 50, but the Top Guilds will have much Higher Requirements.",
+                    "You will need 2 R1, 2 R2, 1 R3, and 1 R4 to rebuild the Elven Temple Entrance.",
+                    "Obtain a Level 50 T5 Item that is capable of doing elemental damage.",
+                    "Go all the way to the right past frozen tower and defeat the Elf Guardian.",
+                    "Continue forward, Rebuild the Temple Entrance."
+                ]
+            },
+            {
+                "title": "Mitar",
+                "screenshots": [],
+                "steps": [
+                    "Once the Elven Temple is Rebuilt, Enter Mitar.",
+                    "Head left until you reach the forge area.",
+                    "Complete the Dialogue.",
+                    "A storyline driven event will appear in your quests tab.",
+                    "The Mitar Fortress Freedom Event should last around 7 days.",
+                    "Completing this event will net beneficial progression rewards so its recommended to complete it.",
+                    "Head all the way to the right of the forge and enter the cave right after the rune post.",
+                    "Defeat the 3 Goblin Knockers.",
+                    "Complete Quest Rewards.",
+                    "Return to the forge.",
+                    "Talk with High Uldred in the Mitar Hall.",
+                    "Complete the Dialogue and Claim Quest Reward.",
+                    "Go back to the monster cave, and defeat 3 hob-goblins.",
+                    "Claim Quest Rewards.",
+                    "Return to the Forge and Speak with Rukke.",
+                    "Complete the Dialogue and Claim Quest Rewards.",
+                    "You now have unlocked the Dwarven Pickaxe Scheme.",
+                    "Head back to the monster cave.",
+                    "Next make it to the stone spiders, save Kargula.",
+                    "Return to the Forge and speak with Kargula.",
+                    "Complete the Quest Dialogue.",
+                    "Return to the Monster Cave.",
+                    "Progress all the way to the first boss, Uhr-raz.",
+                    "Defeat 3 orc grunts.",
+                    "Claim Quest Rewards, Return to Mitar Forge.",
+                    "Talk to Dulo and Rukke.",
+                    "Complete Quest Dialogue.",
+                    "Claim Quest Rewards.",
+                    "Next Enter the Room to the right of the forge.",
+                    "Place the Sigils on the correct statues.",
+                    "Claim Quest Rewards.",
+                    "Talk to Rukke.",
+                    "Claim Quest Rewards.",
+                    "Return to Monster Cave.",
+                    "Kill 3 Bats.",
+                    "Claim Quest Rewards.",
+                    "Return to The Forge",
+                    "Kill 3 Stone Wurming.",
+                    "Obtain 3 Stone Scales.",
+                    "Claim Quest Rewards.",
+                    "Return to The Forge.",
+                    "Complete Dialogue.",
+                    "Claim Quest Rewards.",
+                    "Speak to High Uldred.",
+                    "Complete Quest Dialogue.",
+                    "Claim Quest Rewards.",
+                    "Obtain 10 Bat Fangs and 100 Mitar Ore.",
+                    "Return to the monster cave.",
+                    "Defeat the Stone Worms.",
+                    "Next is a Puzzle.",
+                    "This puzzle has 2 ways of solving.",
+                    "Either through puzzle clues, or by crafting an amulet of truth.",
+                    "We are not high enough level to equip the amulet so we will do the clue route and come back to this later.",
+                    "Go through the Door with the Sword.",
+                    "Two arrows appear in the wall.",
+                    "Figure out the second door.",
+                    "The goal is to have 1 arrow on the wall.",
+                    "Next cycle through all doors memorizing your pattern.",
+                    "Lastly the correct door will have a shovel next to it.",
+                    "in my case, my path is Doors 1 4 3 2",
+                    "Next to Defeat Sharra, you will need your SE + FS Fully Runed.",
+                    "Additionally, you are going to want good rolls.",
+                    "At this point you may also want to consider enhancing up to +3 your souleater.",
+                    "You will most likely need to revive during the fight and theres a chance you get unlucky with stuns.",
+                    "After Defeating her, you will want to unequip your FS Shield for a peace shield to fight Orc Champions.",
+                    "You cannot rune your peace shield yet, so do not remove your final stand rune.",
+                    "Defeat the Orc Champions, Make sure to heal after every fight.",
+                    "Switch back to Final Stand before fighting Stone Eaters.",
+                    "After defeating stone eaters, you are now able to rune your peace shield.",
+                    "If you are not level 60 and don't have the 4th rune slot, do not try runing peace yet.",
+                    "If you have the required runes and are level 60, go ahead and rune both the attack speed rune and the earth damage rune.",
+                    "This will require deleting your final stand rune, so be careful as you dont get the runes back if you mess up.",
+                    "Return to the Forge.",
+                    "Complete the Dialogue.",
+                    "Claim Quest Rewards.",
+                    "Now, assuming you have both SE runes and Both peace runes, you should be able to beat Raghor.",
+                    "However to finish Mitar, we need to craft the amulet of truth, and obtain its upgraded version.",
+                    "To craft the amulet of truth, we need 2500 Shards, 25 Spider Claws, 10 Bat Fangs, 10 Mitar Ore.",
+                    "Once crafted, head to the mitar hall and talk with High Uldred.",
+                    "Complete the Dialogue.",
+                    "Claim Quest Rewards.",
+                    "Next you'll need to craft the amulet of protection.",
+                    "Craft another amulet of truth and acquire the materials listed in the forge.",
+                    "Craft the amulet of protection.",
+                    "Claim all quest rewards.",
+                    "Talk to High Uldred.",
+                    "Complete the Dialogue.",
+                    "Claim Quest Rewards.",
+                    "Defeat Raghor.",
+                    "Return to the Forge.",
+                    "Talk to High Uldred.",
+                    "Complete the Dialogue.",
+                    "Claim Quest Rewards."
+                ]
+            },
+            {
+                "title": "High Uldreds Pickaxe",
+                "screenshots": [],
+                "steps": [
+                    "After you receive your free dwarven pickaxe through the mitar quest line, we can now prepare to craft the T5 Version.",
+                    "Craft a 2nd God's Hammer Pickaxe.",
+                    "Craft a 2nd Dwarven Pickaxe for 20 Demonic Matter, 20 Magic Dust, 500 Soulstones, and 2 God's Hammer Pickaxes.",
+                    "To craft High Uldreds Pickaxe, you'll need 2 Dwarven Pickaxes, 5000 soulstones, 2 R9 Runes, and 100 Mitar Ore.",
+                    "Go to the Mitar Forge and Craft the Pickaxe."
+                ]
+            },
+            {
+                "title": "Einlor",
+                "screenshots": [],
+                "steps": [
+                    "Before proceeding to the next area, we want to obtain a Nightguard with good Lightning Ele Damage.",
+                    "Replace the Souleater Runes with the Nightguard Runes.",
+                    "Return to the Elven Temple.",
+                    "Speak to the Elf.",
+                    "Go to Einlor.",
+                    "Speak with the elves accross the bridge.",
+                    "They send you to a dungeon.",
+                    "Claim quest rewards.",
+                    "Head to the Right Doorway.",
+                    "Kill the Shadow Bites.",
+                    "Head out of the cave.",
+                    "Keeping heading right.",
+                    "Defeat the 3 Trolls.",
+                    "Claim Quest Rewards.",
+                    "Speak with Luthil.",
+                    "Go to the gate and defeat the e Troll Berserkers in their camp.",
+                    "Complete Quest Rewards.",
+                    "Return to Luthil.",
+                    "Complete the Dialogue.",
+                    "Claim Quest Rewards.",
+                    "Return to the Dungeon Cave.",
+                    "Defeat the Shadow Bites.",
+                    "Rebuild the Sigil Gate.",
+                    "Enter the Gate.",
+                    "Defeat the Dark Venoms.",
+                    "Obtain 3 Dark Marble.",
+                    "Claim Quest Rewards.",
+                    "Return to Luthil.",
+                    "Complete the Quest Dialogue.",
+                    "Return to the Cave.",
+                    "Head pat the sigil entrance to the left entrance.",
+                    "Pickup the Golden Leaf.",
+                    "Claim Quest Rewards.",
+                    "Return to Luthil.",
+                    "Repair the Dark Portal.",
+                    "Speak with Luthil.",
+                    "Enter the Portal.",
+                    "Return to the Elves that sent you to prison.",
+                    "Luthil happens to be evil and sends the elven area into despair.",
+                    "Claim Quest Rewards.",
+                    "Defeat the 3 trolls.",
+                    "Claim Quest Rewards.",
+                    "Return to Luthils Parents.",
+                    "Complete the Dialogue.",
+                    "Enter the Well to the Dungeon.",
+                    "Defeat the Dark Venoms.",
+                    "Go to the Left Cave Entrance.",
+                    "Defeat the 3 Deadly Moulds.",
+                    "Claim the Leaf of Light.",
+                    "Complete Quest Rewards.",
+                    "Return to the Cave Entrance.",
+                    "talk to Luthils parents again.",
+                    "Claim Quest Rewards.",
+                    "Next we will head right into Einlor, defeating any trolls along the way.",
+                    "Clear the Corrupted Flesh and Gather 3 Blood Marble.",
+                    "Claim Quest Rewards.",
+                    "Return to Luthils Parents.",
+                    "Use the Well to Return to the Corrupted Lands.",
+                    "Mine the Blood Marble.",
+                    "Head to the Right Cave Entrance.",
+                    "Defeat the Corrupted Fangs.",
+                    "Keep heading Right.",
+                    "Mine the Blood Marble.",
+                    "Defeat the Dark Venom.",
+                    "Enter the Sigil Entrance.",
+                    "Defeat the Shadow Bites.",
+                    "Head Right to Exit the Cave.",
+                    "Now keep heading right.",
+                    "Mine the Blood Marble.",
+                    "Defeat the 3 Troll Berserkers.",
+                    "Luthil should come from the gates.",
+                    "Complete the Dialogue.",
+                    "This spawns a Troll War Chief Boss.",
+                    "Defeat the War Chief.",
+                    "Claim Quest Rewards.",
+                    "Return to Luthils Parents.",
+                    "Complete the Dialogue.",
+                    "Claim Quest Rewards.",
+                    "Clear Einlor once again, this time heading right until you reach a cave.",
+                    "Enter the Cave.",
+                    "Mine the Two Golden Ore Piles.",
+                    "Claim Quest Rewards.",
+                    "Return to Luthil's parents.",
+                    "Complete the Dialogue.",
+                    "Claim Quest Rewards.",
+                    "Return to the Gates where the Troll Warchief spawned.",
+                    "Place the flames of einlor in the correct location.",
+                    "This clears the path.",
+                    "Claim Quest Rewards.",
+                    "Complete Luthil's Dialogue.",
+                    "Head across the bridge to your right and defeat Sumbeor (Sumbrero).",
+                    "Complete Quest Rewards.",
+                    "Complete Luthil's Dialogue.",
+                    "Return to Luthils Parents.",
+                    "Complete the Dialogue.",
+                    "Claim Quest Rewards.",
+                    "Go to your stash, grab 10 ruby essence.",
+                    "Head into Einlor until you reach the Einlor Forge.",
+                    "Here you unlock the ability to craft rings.",
+                    "You can claim a daily reward to satisfy the 25 Tear of Einlor.",
+                    "Next we want to take our free Ring of Hope and turn it into a Ring of Light.",
+                    "This allows us to do lightning damage to complete einlor without needing our Nightguard build anymore."
+                ]
+            },
+            {
+                "title": "End Game AFK Grinds",
+                "screenshots": [],
+                "steps": [
+                    "Shadow Bites are great XP at 250 each.",
+                    "Grind till level 100 - 130"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "End Game",
+        "cards": [
+
+        ]
+    }
+]
