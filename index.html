@@ -1,71 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
-
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="icon" href="./favicon.ico" type="image/x-icon">
         <link rel="stylesheet" href="./main.css">
     </head>
-
     <body>
-        <div class="grid-container">
-            <div class="grid-navbar">
-                <div class="flex-navbar">
+        <div>
+            <div>
+                <div>
                     <H1>Miners Settlement - Zero to Hero</H1>
                 </div>
             </div>
-            <div id="pageContentContainer" class="grid-content">
-                <div class="flex-content">
-                    <div class="flex-card-title">
-                        <h2>Name - Color Picker</h2>
-                    </div>
-                    <div class="flex-card">
-                        <div class="flex-card-row-center">
-                            <div>
-                                <div id="color-picker" class="grid-color-picker-container">
-                                    <div class="flex-color-picker-column">
-                                        <div id="picker-output-color" class="output-color-box"></div>
-                                        <input id="picker-output-field" class="output-color-text" type="text" value="">
-                                    </div>
-                                    <div class="flex-color-picker-column">
-                                        <div class="flex-color-sliders">
-                                            <div id="picker-box-r" class="color-slider-box red-bg"></div>
-                                            <input class="input-slider" type="range" id="picker-slider-r" min="0" max="15" value="15">
-                                        </div>
-                                        <div class="flex-color-sliders">
-                                            <div id="picker-box-g" class="color-slider-box green-bg"></div>
-                                            <input class="input-slider" type="range" id="picker-slider-g" min="0" max="15" value="0">
-                                        </div>
-                                        <div class="flex-color-sliders">
-                                            <div id="picker-box-b" class="color-slider-box blue-bg"></div>
-                                            <input class="input-slider" type="range" id="picker-slider-b" min="0" max="15" value="0">
-                                        </div>
-                                        <div class="flex-color-sliders">
-                                            <div id="picker-box-grayscale" class="color-slider-box gray-bg"></div>
-                                            <input class="input-slider" type="range" id="picker-slider-gray" min="0" max="15" value="0">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <img class="img-screenshot img-medium" src="./data/img/start/character_creation.png" alt="character creation">
-                        </div>
-                    </div>
-                    <div id="dynamic-content">
-                        <!-- Insert Here via JS -->
-                    </div>
-                    <div class="flex-scroll-container">
-                        <div>
-                            <input onclick="scrollPageTop()" id="pageTopBtn" type="button" class="scroll-button" value="▲">
-                        </div>
-                        <div>
-                            <input onclick="scrollPageBottom()" id="pageBottomBtn" type="button" class="scroll-button" value="▼">
-                        </div>
-                    </div>
+            <div>
+                <div id="dynamic-content">
+                    <!-- Insert Here via JS -->
                 </div>
             </div>
         </div>
         <script src="./main.js" type="text/javascript"></script>
     </body>
-
 </html>
