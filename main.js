@@ -20,7 +20,7 @@ function generateCards(data, script) {
         if (cardScreenshotPaths.length) {
             for (let a = 0; a < cardScreenshotPaths.length; a++) {
                 let cardScreenshotPath = cardScreenshotPaths[a]
-                let cardScreenshotTemplate = `<img class="img-screenshot img-medium" src="${cardScreenshotPath}">`;
+                let cardScreenshotTemplate = `<img src="${cardScreenshotPath}">`;
                 cardScreenshots.push(cardScreenshotTemplate);
             }
         }
@@ -40,16 +40,16 @@ function generateCards(data, script) {
         // Populate Data to HTML Template
         let cardTemplate = `
             <div>
-                <div class="flex-card-title">
+                <div>
                     <h2>${cardTitle}</h2>
                 </div>
-                <div class="flex-card">
-                    <div class="flex-card-instructions">
+                <div>
+                    <div>
                         <ul>
                             ${cardSteps.join('\n')}
                         </ul>
                     </div>
-                    <div class="flex-card-row-center">
+                    <div>
                         ${cardScreenshots.join('\n')}
                     </div>
                 </div>
